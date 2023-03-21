@@ -1,0 +1,26 @@
+Product_Name|Product_Varietal|Product_Origin|Product_Price|Product_Attributes|Critical_Reviews|User_Avg_Rating|User_Rating_Count
+Guinigi Prosecco|Non-Vintage Sparkling Wine|Prosecco, Italy|17|Sparkling & Champagne,|    92  |4.4|5
+Herdade de Sao Miguel Reserva 2019|Other Red Blends|Alentejo, Portugal|35|Red Wine,|    94  |4.2|5
+Andreola Col del Forno Prosecco|Non-Vintage Sparkling Wine|Valdobbiadene, Prosecco, Italy|22|Sparkling & Champagne,|   92     92  |4.5|9
+Laurent-Perrier Grand Siecle No. 25|Non-Vintage Sparkling Wine|Champagne, France|250|Sparkling & Champagne,Collectible,|    99     97     97     96    95     95  |4.7|6
+Cantine Astroni Colle Imperatrice Falanghina Campi Flegrei 2021|Falanghina|Campania, Italy|0|White Wine,|    92  |4.2|9
+Howard Park Flint Rock Shiraz 2019|Syrah/Shiraz|Great Southern, Western Australia, Australia|18|Red Wine,Green Wine,Screw Cap,|    94  |4.4|5
+Casa Emma Chianti Classico 2019|Sangiovese|Chianti Classico, Chianti, Tuscany, Italy|28|Red Wine,|    92     92     89  |4.0|11
+Henri Champliau Cremant de Bourgogne Brut Rose|Sparkling Rosé|Mercurey, Cote Chalonnaise, Burgundy, France|26|Sparkling & Champagne,|   95  |4.0|115
+Marcelo Pelleriti Signature Cabernet Franc 2019|Cabernet Franc|Mendoza, Argentina|18|Red Wine,|    95     91  |3.9|6
+Bindi Sergardi Ser Gardo Chianti Classico 2016|Sangiovese|Chianti Classico, Chianti, Tuscany, Italy|30|Red Wine,|    91  |4.6|5
+Domaine De La Verde Vacqueyras Ora 2020|Rhone Red Blends|Vacqueyras, Rhone, France|22|Red Wine,Green Wine,|    93  |4.0|10
+Martin Ray Sonoma-Napa Cabernet Sauvignon 2020|Cabernet Sauvignon|North Coast, California|30|Red Wine,Screw Cap,|    92  |4.0|47
+St. Michael-Eppan Schulthauser Pinot Bianco 2020|Pinot Blanc|Alto Adige, Trentino-Alto Adige, Italy|23|White Wine,|    94     92  |4.2|61
+Brander Cuvee Natalie 2021|Other White Blends|Santa Ynez Valley, Santa Barbara, Central Coast, California|30|White Wine,Boutique,Screw Cap,|    92  |4.4|6
+Maddalena Rose 2021|Rosé|Paso Robles, Central Coast, California|18|Pink and Rosé,Green Wine,Screw Cap,|    92  |4.3|15
+Sanford Sanford & Benedict Vineyard Pinot Noir 2017|Pinot Noir|Sta. Rita Hills, Santa Barbara, Central Coast, California|60|Red Wine,|    97     93  |4.1|11
+Pala Oltreluna Monica 2020|Other Red Wine|Sardinia, Italy|25|Red Wine,Green Wine,|    93  |3.8|10
+Alvear Pedro Ximenez 1927 (375ML half-bottle)|Other Dessert|Montilla-Moriles, Spain|34|Collectible,|    98     96     96     95     90  |4.3|304
+Castellani Pinot Grigio 2021|Pinot Gris/Grigio|Veneto, Italy|12|White Wine,|    90  |4.2|62
+Torre de Ona by La Rioja Alta Reserva Finca Martelo 2015|Tempranillo|Rioja, Spain|39|Red Wine,|    94     92  |4.4|10
+San Simeon Estate Reserve Petite Sirah 2019|Petite Sirah|Paso Robles, Central Coast, California|30|Red Wine,Green Wine,|    92  |4.6|7
+Marchesi Incisa della Rocchetta Valmorena Barbera d'Asti 2020|Barbera|Asti, Piedmont, Italy|21|Red Wine,|    90  |4.5|14
+Feudo di Santa Tresa Rina Russa Frappato 2019|Frappato|Sicily, Italy|16|Red Wine,Screw Cap,|    90  |4.1|13
+Hacienda Lopez de Haro Rioja Gran Reserva 2012|Tempranillo|Rioja, Spain|28|Red Wine,|    93     92  |4.6|72
+Palacios Remondo La Vendimia 2020|Other Red Blends|Rioja, Spain|17|Red Wine,|    92  |4.2|34
